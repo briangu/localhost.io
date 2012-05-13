@@ -1,7 +1,7 @@
 localhost.io
 ============
 
-Serve any directory as a website on localhost
+Serve any directory as a website on localhost.  Based on https://github.com/briangu/viper.io
 
 Example
 =======
